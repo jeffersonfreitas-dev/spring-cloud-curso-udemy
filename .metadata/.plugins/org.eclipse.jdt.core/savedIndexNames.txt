@@ -12,6 +12,7 @@ INDEX VERSION 1.131+/home/jefferson/Desktop/Projetos/udemy/.metadata/.plugins/or
 2481033231.index
 639044811.index
 46931866.index
+3729659125.index
 1236734419.index
 1924688378.index
 1675740966.index
@@ -26,6 +27,7 @@ INDEX VERSION 1.131+/home/jefferson/Desktop/Projetos/udemy/.metadata/.plugins/or
 2050892178.index
 1170288747.index
 3545003347.index
+3608138038.index
 4066292070.index
 2090148914.index
 3727324903.index
@@ -35,13 +37,19 @@ INDEX VERSION 1.131+/home/jefferson/Desktop/Projetos/udemy/.metadata/.plugins/or
 1122658256.index
 4275280591.index
 1734305961.index
+258427808.index
+500031356.index
 2126795491.index
+1350107116.index
 830894425.index
 2294799263.index
 536900813.index
+3582069665.index
 168782771.index
+4195095179.index
 1865797976.index
 813507169.index
+1237314036.index
 1089685823.index
 3048995879.index
 763148474.index
