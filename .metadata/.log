@@ -5296,3 +5296,219 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:50:28.357
 !MESSAGE executing callback sts4.classpath.jOZUfXfu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:54:56.333
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:54:56.335
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:54:56.335
+!MESSAGE buffering callback sts4.classpath.jOZUfXfu PhotoAppApiUser false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:54:56.336
+!MESSAGE executing callback sts4.classpath.jOZUfXfu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:54:56.343
+!MESSAGE executing callback sts4.classpath.jOZUfXfu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:55:12.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:55:12.583
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:55:12.583
+!MESSAGE buffering callback sts4.classpath.jOZUfXfu PhotoAppApiUser false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:55:12.583
+!MESSAGE executing callback sts4.classpath.jOZUfXfu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 20:55:12.588
+!MESSAGE executing callback sts4.classpath.jOZUfXfu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:12:38.270
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:12:38.271
+!MESSAGE classpath=139 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:12:38.271
+!MESSAGE buffering callback sts4.classpath.jOZUfXfu PhotoAppApiUser false 139
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:12:38.271
+!MESSAGE executing callback sts4.classpath.jOZUfXfu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:12:38.277
+!MESSAGE executing callback sts4.classpath.jOZUfXfu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:46.226
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jOZUfXfu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:46.226
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.jOZUfXfu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:46.226
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:46.226
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jOZUfXfu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.657
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.657
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@297bbd41[org.springframework.tooling.boot.ls:1.29.0.202110250907(id=550)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.657
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.662
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.662
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@297bbd41[org.springframework.tooling.boot.ls:1.29.0.202110250907(id=550)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:49.662
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:50.968
+!MESSAGE Boot LS startup time from start to initialized: 1306ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cNFqJmUHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.023
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cNFqJmUH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.025
+!MESSAGE classpath=139 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.025
+!MESSAGE buffering callback sts4.classpath.cNFqJmUH PhotoAppApiUser false 139
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.027
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.027
+!MESSAGE buffering callback sts4.classpath.cNFqJmUH ApiGateway false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.027
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.028
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.029
+!MESSAGE buffering callback sts4.classpath.cNFqJmUH PhotoAppApiAccountManagement false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.029
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.030
+!MESSAGE classpath=130 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.030
+!MESSAGE buffering callback sts4.classpath.cNFqJmUH PhotoAppDiscoveryService false 130
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.030
+!MESSAGE executing callback sts4.classpath.cNFqJmUH 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:14:51.300
+!MESSAGE executing callback sts4.classpath.cNFqJmUH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:02.323
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cNFqJmUH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:02.323
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.cNFqJmUH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:02.323
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:02.323
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cNFqJmUH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:06.888
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:06.888
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@297bbd41[org.springframework.tooling.boot.ls:1.29.0.202110250907(id=550)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:06.889
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.134
+!MESSAGE Boot LS startup time from start to initialized: 1245ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IPWdelcwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IPWdelcw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.188
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.190
+!MESSAGE classpath=139 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.190
+!MESSAGE buffering callback sts4.classpath.IPWdelcw PhotoAppApiUser false 139
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.190
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.191
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.192
+!MESSAGE buffering callback sts4.classpath.IPWdelcw ApiGateway false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.192
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.193
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.194
+!MESSAGE buffering callback sts4.classpath.IPWdelcw PhotoAppApiAccountManagement false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.194
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.195
+!MESSAGE classpath=130 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.195
+!MESSAGE buffering callback sts4.classpath.IPWdelcw PhotoAppDiscoveryService false 130
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.195
+!MESSAGE executing callback sts4.classpath.IPWdelcw 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-01 21:15:08.457
+!MESSAGE executing callback sts4.classpath.IPWdelcw SUCCESS [done]
