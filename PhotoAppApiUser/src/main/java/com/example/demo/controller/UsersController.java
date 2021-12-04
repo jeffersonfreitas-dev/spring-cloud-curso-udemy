@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.model.UserModel;
 import com.example.demo.model.dto.UserDto;
+import com.example.demo.model.response.UserResponse;
 import com.example.demo.service.UserService;
 
 @RestController
@@ -34,11 +35,12 @@ public class UsersController {
 	
 	
 	@PostMapping
-	public ResponseEntity<UserDto> createNew(@RequestBody @Valid UserModel userModel) {
+	public ResponseEntity<UserResponse> createNew(@RequestBody @Valid UserModel userModel) {
 		ModelMapper modelMapper = new ModelMapper();
 		modelMapper.getConfiguration().setMatchingStrategy(MatchingStrategies.STRICT);
 		UserDto dto = modelMapper.map(userModel, UserDto.class);
 		service.create(dto);
-		return new ResponseEntity<UserDto>(dto, HttpStatus.CREATED);
+		UserResponse response = modelMapper.map(dto, UserResponse.class);
+		return new ResponseEntity<UserResponse>(response, HttpStatus.CREATED);
 	}
 }
