@@ -30,7 +30,7 @@ public class UsersController {
 
 	@GetMapping("/status/check")
 	public String status() {
-		return "It's working in... " + env.getProperty("local.server.port");
+		return "It's working in... " + env.getProperty("local.server.port") + " working with sercret: " + env.getProperty("token.secret");
 	}
 	
 	
